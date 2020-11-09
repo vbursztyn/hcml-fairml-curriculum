@@ -8,7 +8,11 @@ Steps:
 3. Run `jupyter nbextension enable --py widgetsnbextension` to make sure interactive widgets are enabled
 4. Run `jupyter notebook` to run Jupyter from the main folder
 5. Execute notebook `What happens when the data is racially discriminatory?` to interact with the DT
-5.1. Place the slider on 1.0 to use the original data
-5.2. Place the slider close to 2.0 to distort the data against predominantly African-American communities
+	1. Place the slider on 1.0 to use the original data
+	2. Place the slider close to 2.0 to distort the data against predominantly African-American communities
+
+
+References:
+1. https://towardsdatascience.com/interactive-visualization-of-decision-trees-with-jupyter-widgets-ca15dd312084
 
 P.S. The slider triggers model fitting & rendering for each incremental change, so you may need to wait a bit when making greater changes in the slider.
