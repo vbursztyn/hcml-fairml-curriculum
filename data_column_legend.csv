@@ -1,0 +1,34 @@
+﻿Column,Description
+score_text,COMPAS recidivism categorical score (1 to 4 is 'Low'; 5 to 7 is 'Medium'; and 8 to 10 is 'High')
+race_African-American,Race is African American
+race_Asian,Race is Asian
+race_Caucasian,Race is Caucasian
+race_Hispanic,Race is Hispanic
+race_Native American,Race is Native American
+race_Other,Race is Other
+is_recid_0,Is not instance of recidivism
+is_recid_1,Is instance of recidivism
+c_charge_degree_(CO3),
+c_charge_degree_(CT),
+c_charge_degree_(F1),Felony charge class 1 (lowest)
+c_charge_degree_(F2),Felony charge class 2
+c_charge_degree_(F3),Felony charge class 3
+c_charge_degree_(F5),Felony charge class 5
+c_charge_degree_(F6),Felony charge class 6
+c_charge_degree_(F7),Felony charge class 7
+c_charge_degree_(M1),First degree misdemeanor
+c_charge_degree_(M2),Second degree misdemeanor
+c_charge_degree_(MO3),
+c_charge_degree_(NI0),
+c_charge_degree_(TCX),
+c_charge_degree_(X),Felony charge class X (highest)
+priors_count_cat_0,Zero number of prior crimes
+priors_count_cat_1,One number of prior crimes
+priors_count_cat_2-5,Two to five number of prior crimes
+priors_count_cat_6 - 12,Six to twelve number of prior crimes
+priors_count_cat_13+,Thirteen or more number of prior offenses
+sex_Female,Gender (binary) is female
+sex_Male,Gender (binary) is male
+age_cat_25 - 45,Age between 25 - 45
+age_cat_Greater than 45,Age greater than 45
+age_cat_Less than 25,Age less than 25
