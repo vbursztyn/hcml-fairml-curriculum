@@ -1,6 +1,6 @@
 # HCML - Examining Fairness in ML Models: A Case Study
 ### Professor Stevie Chancellor, Fall 2020.
-### Ally Reith, Aristana Scourtas, Natalie Mello, Victor Bursztyn, Zane Denmon.
+### Ally Reith, Aristana Scourtas, Natalie Araujo Melo, Victor Bursztyn, Zane Denmon.
 
 Setup steps on MacOS:
 1. Go to the `Applications` folder on your computer, and open `Terminal` to access the commandline
