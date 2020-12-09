@@ -1,0 +1,34 @@
+﻿Feature,Description
+name,Full name
+vr_charge_degree,
+vr_offense_date,
+days_b_screening_arrest,
+c_jail_out,
+is_recid,Is booking an instance of recidivism? (binary)
+last,Last Name
+age,Age
+priors_count,Number of prior crimes committed
+c_charge_desc,"Description of the charge; charge type (e.g. 'Misdemeanor', 'Felony')"
+dob,Date of birth
+decile_score,COMPAS algorithm score
+c_days_from_compas,Days since COMPAS algorithm score was received
+r_charge_degree,
+r_jail_in,
+id,Criminal ID
+v_type_of_assessment,
+v_decile_score,
+violent_recid,
+age_cat,
+sex,Gender (binary)
+is_violent_recid,Is instance of violent recidivism? (binary)
+vr_charge_desc,
+c_charge_degree,"Degree of the charge (e.g. 'First Degree', 'Second Degree')"
+priors_count_cat,
+type_of_assessment,
+r_charge_desc,
+v_score_text,
+r_days_from_arrest,Number of days since arrest
+first,First name
+c_jail_in,
+screening_date,Date of criminal screening
+r_offense_date,Date of criminal offense
