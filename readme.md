@@ -3,6 +3,15 @@
 
 ### by Ally Reith, Aristana Scourtas, Natalie Araujo Melo, Victor Bursztyn, Zane Denmon
 
+# Curriculum materials
+The curriculum is composed of two key components:
+- The [Faciliator Curriculum Unit Slides](https://docs.google.com/presentation/d/1cKg2BbdoX4a8IgEJEfO7Ei3B7xN_gU66K8GLEV50JJg/edit?usp=sharing), meant to be adaptable to hybrid- or online-learning scenarios
+- The [WOKE ML Lab](./WOKE%20ML%20Lab.ipynb) Jupyter notebook
+
+## Additional reading
+A detailed explanation of our theory, metholodology, and user study supporting this curriculum can be found in our Association for Computing Machinery (ACM) workshop pre-print:
+- [WOKE ML: Week-long Overview of Key Elements in Fair Machine Learning](https://drive.google.com/file/d/1-Z2tBQDRPZaWaGHdYdOnLWDnztyEdSrF/view?usp=sharing)
+
 # Getting started
 The Jupyter notebook for this curriculum was tested with Python 3.7 - 3.8 on MacOS. We recommend the instructor or teaching assistants walk through the installation steps with the students, or complete the installation ahead of classtime. 
 
