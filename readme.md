@@ -1,7 +1,20 @@
 # HCML - Examining Fairness in ML Models: A Case Study
-### A curriculum designed for Human-Centered Machine Learning (Fall 2020) with Dr. Stevie Chancellor at Northwestern University
+### A high school civics curriculum created for Human-Centered Machine Learning (Fall 2020) with Dr. Stevie Chancellor at Northwestern University
 
 ### by Ally Reith, Aristana Scourtas, Natalie Araujo Melo, Victor Bursztyn, Zane Denmon
+
+# Background
+This one-week civics curriculum engages high school students in an exploration of machine
+learning applications through multiple points of entry: learners are guided through some of the
+histories, challenges, ethics, possibilities and consequences afforded by machine learning.
+Additionally, we situate the unit within a
+real-life example: the [ProPublica investigation](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) of recidivism prediction with the COMPAS
+software, alongside an interactive Jupyter notebook and exploratory model of our own.
+
+In structuring our unit, we draw heavily on transformative justice as a guiding pedagogical
+framework. We’re inspired by the [Reparations Won curriculum](https://blog.cps.edu/wp-content/uploads/2017/08/ReparationsWon_HighSchool.pdf) – developed in collaboration with
+Chicago Public Schools and the [Chicago Torture Justice Memorial Center](https://www.chicagotorturejustice.org/education) – which leverages restorative justice
+practices to guide learners through difficult material. 
 
 # Curriculum materials
 The curriculum is composed of two key components:
